@@ -1,3 +1,5 @@
 # ObjectOrientedProgramming
 
-Springboard exercise designed to assist in learning classes, keyword this, and more!
+## Car 'Class' Project
+
+Springboard exercise designed to assist in learning classes!
